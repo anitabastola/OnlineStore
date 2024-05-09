@@ -9,7 +9,10 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+>>>>>>> a9850731488a23ba76fffe44ff89edb2f4a1a45b
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/store.java" beforeDir="false" />
     </list>
@@ -37,6 +40,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Store.executor": "Run",
@@ -46,6 +50,16 @@
     "last_opened_file_path": "C:/Users/student.BOSPF3AKKL0.000/Desktop/pluralsight-workshops/OnlineStore"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/student.BOSPF3AKKL0.000/Desktop/pluralsight/pluralsight-workshops/OnlineStore&quot;
+  }
+}</component>
+>>>>>>> a9850731488a23ba76fffe44ff89edb2f4a1a45b
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\student.BOSPF3AKKL0.000\Desktop\pluralsight\pluralsight-workshops\OnlineStore" />

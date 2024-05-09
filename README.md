@@ -45,10 +45,15 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Java JDK
 
 ## Demo
+![Screenshot 2024-05-09 091910](https://github.com/anitabastola/OnlineStore/assets/166552121/45cbe97e-d325-4e34-8385-f851351a44c3)
+![image](https://github.com/anitabastola/OnlineStore/assets/166552121/d72cb1fc-abc6-4a23-833b-39cc06ae3756)
+![Screenshot 2024-05-09 093917](https://github.com/anitabastola/OnlineStore/assets/166552121/9011cd9b-7f6d-4d58-ae0e-cc8fe0fef4f0)
+![Screenshot 2024-05-09 093955](https://github.com/anitabastola/OnlineStore/assets/166552121/196fd542-9060-4969-b20b-da14e64374b5)
+![Screenshot 2024-05-09 094018](https://github.com/anitabastola/OnlineStore/assets/166552121/ce594063-f98f-4b9f-ab75-7d572d9351a9)
+![Screenshot 2024-05-09 094042](https://github.com/anitabastola/OnlineStore/assets/166552121/e1596a57-3492-4fd9-bd33-686eaaefafe9)
+![Screenshot 2024-05-09 094135](https://github.com/anitabastola/OnlineStore/assets/166552121/29c193ed-1e17-4244-8d60-0e483efdd978)
+![Screenshot 2024-05-09 094204](https://github.com/anitabastola/OnlineStore/assets/166552121/ed300965-0389-4349-8e1e-bf0337462e0c)
 
-Include screenshots or GIFs that show your application in action. Use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) to record a GIF of your application.
-
-![Application Screenshot](path/to/your/screenshot.png)
 
 ## Future Work
 
