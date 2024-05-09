@@ -1,10 +1,11 @@
 # Project Title
+Online Store is the name of the Project
 
 ## Description of the Project
 
-Briefly describe what this Java console application does. Mention its purpose and who the intended users are. Explain the main functionality and what problems it aims to solve.
+This Java application is a online store system where you can browse, shop and purchasing items. The audience/users of this application are people who are comfortable browsing through text-based interface. 
+This application displays an easier way to shop online for users who do not prefer graphic interface.
 
-![Class Diagram](path/to/your/class_diagram.png)
 
 ## User Stories
 
@@ -12,15 +13,22 @@ List the user stories that guided the development of your application. Format th
 
 - As a user, I want to be able to input my data, so that the application can process it accordingly.
 - As a user, I want to receive immediate feedback, so I can understand what to do next.
-
-## Setup
-
-Instructions on how to set up and run the project using IntelliJ IDEA.
+- As a user, I want to be able to shop for the products that I like through this application. 
+- As a user, I want to be able to add, remove products from my cart, therefore I can find and purchase items without graphical interface. 
+- As a user, I should be able to see a list of avaiable products when I go through the application.
+- As a user, I should be able to add products to my cart by entering the ID number.
+- As a user, I should be able to remove the products from my cart. 
+- As a user, I should be able to search for any products filtered by name, priec, id to get what I need. 
+- As a user, I should be able to make a purchase. 
+- As a user, I should be able to see the check out price before making the purchase.
+- As a user, I should be able to complete my order.
+- 
 
 ### Prerequisites
 
 - IntelliJ IDEA: Ensure you have IntelliJ IDEA installed, which you can download from [here](https://www.jetbrains.com/idea/download/).
 - Java SDK: Make sure Java SDK is installed and configured in IntelliJ.
+- CVS file that has the product information
 
 ### Running the Application in IntelliJ
 
@@ -34,8 +42,7 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Technologies Used
 
-- Java: Mention the version you are using.
-- Any additional libraries or frameworks used in the project.
+- Java JDK
 
 ## Demo
 
@@ -45,26 +52,15 @@ Include screenshots or GIFs that show your application in action. Use tools like
 
 ## Future Work
 
-Outline potential future enhancements or functionalities you might consider adding:
-
-- Additional feature to be developed.
-- Improvement of current functionalities.
+- I want to be able to make sure to have multiple languages included throughout the application in order to cater to a diverse groups of individuals
 
 ## Resources
-
-List resources such as tutorials, articles, or documentation that helped you during the project.
-
-- [Java Programming Tutorial](https://www.example.com)
-- [Effective Java](https://www.example.com)
-
-## Team Members
-
-- **Name 1** - Specific contributions or roles.
-- **Name 2** - Specific contributions or roles.
+- https://www.w3schools.com/java/java_ref_math.asp
 
 ## Thanks
 
 Express gratitude towards those who provided help, guidance, or resources:
 
-- Thank you to [Mentor's Name] for continuous support and guidance.
+- Thank you to Raymond for continuous support and guidance.
 - A special thanks to all teammates for their dedication and teamwork.
+- 
